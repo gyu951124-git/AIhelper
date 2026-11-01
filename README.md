@@ -1,5 +1,11 @@
 # AIhelper
 
+## Android 테스트 앱 다운로드
+
+[휴대폰용 APK 다운로드 — ARM64, 39.3MiB](https://github.com/gyu951124-git/AIhelper/raw/refs/heads/main/downloads/AIhelper-android-arm64.apk)
+
+파일 위치: [downloads/AIhelper-android-arm64.apk](downloads/AIhelper-android-arm64.apk). ARM64 Android 휴대폰용 테스트 빌드입니다.
+
 GitHub Spec Kit으로 앱의 요구사항, 설계, 작업 목록을 정리하고 구현하는 프로젝트입니다.
 
 ## 설정된 환경
